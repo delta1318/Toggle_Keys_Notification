@@ -15,7 +15,7 @@ git clone --depth 1 https://github.com/<your_user_name>/Toggle_Keys_Notification
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Blood-Buddy
+cd Toggle_Keys_Notification
 ```
 
 **4.** Add a remote upstream to the original repository.
